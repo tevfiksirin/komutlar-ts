@@ -17,3 +17,5 @@ echoctl echoke -flusho -extproc
 ### Erase
 
 Kitaba göre **stty** çıktısının **erase** sözcüğünün hemen yanında ^H (Control+H olarak okunur) karakterini göreceksiniz.
+
+Bizdeki ^?
