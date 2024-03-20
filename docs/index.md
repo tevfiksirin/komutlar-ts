@@ -9,3 +9,4 @@ Finger örneğinde, güvenlik problemi oluşturduğu yönünde bir yorum vardı,
 <img src="/assets/images/unix.jpg" width="200" height="100">
 
 Buradaki çalışmalarda kullanılan kitap, bu resimdeki kitapdır.
+
