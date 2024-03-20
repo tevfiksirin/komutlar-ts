@@ -1,19 +1,11 @@
-# Komutlar Hakında
+# Komutlar Hakkında
 
 Unix'den linux'a aktarılmayan komutlar var,  örneğin "finger"...
 
 Finger örneğinde, güvenlik problemi oluşturduğu yönünde bir yorum vardı, freebsd'de ise man sayfalarında hala var (sistemde yüklü mü bilmiyorum), neyse bir takım komutlar aktarılmamış sanırım.
 
-## Commands
+## Kaynak Kitap
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<img src="/assets/images/unix.jpg" width="200" height="100">
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Buradaki çalışmalarda kullanılan kitap, bu resimdeki kitapdır.

@@ -1,3 +1,4 @@
 site_name: Komutlar
 theme:
   name: material
+  language: tr
