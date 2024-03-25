@@ -1,5 +1,7 @@
 ## stty
 
+Mevcut klavye ayarlarını görüntülemek için kullanılacak komut. '^U' komutundaki '^' control tuşu anlamına geliyor.
+
 ```bash
 ~$ stty -a
 speed 38400 baud; rows 24; columns 80; line = 0;
@@ -14,8 +16,3 @@ isig icanon iexten echo echoe echok -echonl -noflsh -xcase -tostop -echoprt
 echoctl echoke -flusho -extproc
 ```
 
-### Erase
-
-Kitaba göre **stty** çıktısının **erase** sözcüğünün hemen yanında ^H (Control+H olarak okunur) karakterini göreceksiniz.
-
-Bizdeki ^?
